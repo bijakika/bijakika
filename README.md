@@ -1,4 +1,4 @@
-👋 Hi, I’m <b>Bijak Ika Handhika</b>
+- 👋 Hi, I’m <b>Bijak Ika Handhika</b>
 - 👀 I’m interested in <b>Data Science</b>, <b>Data Analysis</b>, and <b>Machine Learning</b>
 - 🌱 I’m currently learning depth of <b>Data Science</b>
 - 💞️ I’m looking to collaborate on <b>Data Analysis</b> or <b>Data Science Project</b>
